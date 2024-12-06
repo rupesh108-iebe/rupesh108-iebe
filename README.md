@@ -61,7 +61,12 @@
 <br>
 
 <!-- Snake Animation Section -->
-![snake gif](https://github.com/rupesh108-iebe/rupesh108-iebe/blob/output/github-snake-dark.svg)
+<!--![snake gif](https://github.com/rupesh108-iebe/rupesh108-iebe/blob/output/github-snake-dark.svg)-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rupesh108-iebe/rupesh108-iebe/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rupesh108-iebe/rupesh108-iebe/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rupesh108-iebe/rupesh108-iebe/output/github-snake.svg" />
+</picture>
 
 <!-- Rainbow Line Section -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />

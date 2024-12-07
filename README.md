@@ -29,7 +29,7 @@
 
 
 <!-- Email Section -->
-<h4 align="center"> 📩 Get in touch: <a href="mailto:rupeshnandalehr@gmail.com">rupeshnandale1630@gmail.com</a> </h4>
+<!-<h4 align="center"> 📩 Get in touch: <a href="mailto:rupeshnandalehr@gmail.com">rupeshnandalehr@gmail.com</a> </h4>-->
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rupesh108-iebe&style=for-the-badge" alt="Profile Views" /></p>
 
 <!-- Animated Line Section -->

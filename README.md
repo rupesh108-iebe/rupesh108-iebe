@@ -22,15 +22,14 @@
 <p align="center">
     Hello, fellow coder!🖐️ Feel free to reach out to me on the following platforms: <br><br>
     <a href="https://www.linkedin.com/in/rupesh-nandale-287678277" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="50" /></a>
-   <a href="mailto:rupesh.ai.ml@gmail.com" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="50" width="50" /></a>
-    <a href="https://www.behance.net/your-profile" target="_blank">
-    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/behance-color-icon.png" alt="Behance" height="50" width="50" />
-</a>
+ <!--   <a href="https://www.behance.net/your-profile" target="_blank">
+    <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/behance-color-icon.png" alt="Behance" height="50" width="50" />-
+</a>-->
 </p>
 
 
 <!-- Email Section -->
-<h4 align="center"> 📩 Get in touch: <a href="mailto:rupeshnandale1630@gmail.com">rupeshnandale1630@gmail.com</a> </h4>
+<h4 align="center"> 📩 Get in touch: <a href="mailto:rupeshnandalehr@gmail.com">rupeshnandale1630@gmail.com</a> </h4>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rupesh108-iebe&style=for-the-badge" alt="Profile Views" /></p>
 
 <!-- Animated Line Section -->
